@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TANUSHRIAGARWAL
+- 👋 Hi, I’m @TANUSHREEAGARWAL
 - 👀 I’m interested in .NET INTERSHIP
 - 🌱 I’m currently learning .NET
 - 💞️ I’m not looking to collaborate
