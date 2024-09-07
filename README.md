@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TANUSHREEAGARWAL
-- 👀 I’m interested in .NET INTERSHIP
 - 🌱 I’m currently learning .NET
 - 💞️ I’m not looking to collaborate
   - HAPUR.. I am a Fresher .NET Developer. I have learnt C,C++ and C#
